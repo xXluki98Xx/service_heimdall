@@ -41,7 +41,7 @@ The installation will respond to you with a running heimdall service.
 Now you can enter the report page:
 
 ```
-http://hodgins-ip
+https://hodgins-ip:8070
 ```
 
 To interact with the container, you will have multiple options.
