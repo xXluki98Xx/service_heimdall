@@ -84,5 +84,3 @@ the [Conventions](https://github.com/while-true-do/doc-library/).
 
 - [Bugs and Feature Requests](https://github.com/xXluki98Xx/service_heimdall/issues)
 - [Pull Requests](https://github.com/xXluki98Xx/service_heimdall/pulls)
-
-See who has contributed already in the [KUDOS.txt](KUDOS.txt).
